@@ -3,10 +3,6 @@
 
 Uma aplicação desktop moderna, leve e intuitiva para baixar vídeos e extrair áudios do YouTube com qualidade. Desenvolvida em Python utilizando **CustomTkinter** para a interface gráfica e **yt-dlp** para o processamento de media.
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
-![CustomTkinter](https://img.shields.io/badge/UI-CustomTkinter-blueviolet?style=for-the-badge)
-![yt-dlp](https://img.shields.io/badge/Engine-yt--dlp-red?style=for-the-badge)
-
 ---
 
 ## ✨ Funcionalidades
